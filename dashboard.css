@@ -1,0 +1,130 @@
+
+.container-d{
+    width: 100%;
+    height: 100vh;
+}
+
+.navbar{
+    width: 10%;
+    background-color: #107C91;
+}
+.dashboard{
+    width: 90%;
+    background-color: rgb(235, 235, 235);
+}
+.vertical-navbar{
+    width: 80%;
+}
+li svg{
+    color: rgb(201, 201, 201);
+    cursor: pointer;
+}
+.middle-heading{
+    height: fit-content;
+}
+
+.information{
+    width: 100%;
+}
+.information .profile-info{
+    width: 25%;
+    
+}
+.information .health-info{
+    width: 70%;
+}
+
+
+.personal-details p{
+    margin-bottom: 0;
+    font-weight: 500;
+    padding-bottom: 2px;
+    font-size: 14px;
+}
+.personal-details span{
+   color: rgb(83, 83, 83);
+   font-weight: normal;
+}
+.col p{
+    margin-bottom: 0;
+}
+
+.scans .col p{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.icon1{
+    background-color:#d0fdf5;
+    color: #18453B;
+    width: 40px;
+    height: 40px;
+}
+
+.icon2{
+    background-color: rgb(255, 246, 211);
+    color: #9b5f04;
+}
+.icon3{
+    background-color: rgb(255, 230, 230);
+    color: #e6360e;
+}
+.prescription p{
+    margin-bottom: 0;
+}
+
+.display-pres{
+    /* height: 180px; */
+    background-color: white;
+}
+.add-pres{
+    border: 2px dotted  #4dc54f;
+    cursor: pointer;
+}
+.add-pres button{
+    color:  #4dc54f;
+    border: none;
+    background-color: white;
+}
+
+
+
+.heading p{
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+}
+
+.nav-item.selected svg {
+    /* text-decoration: underline;  */
+    color: aliceblue;
+  width: 35px;
+  height: 35px;
+}
+
+.personal-info button:hover{
+background-color: #60f1a6;
+}
+
+.modal-footer button{
+background-color: dodgerblue;
+color: white;
+}
+
+#back-to-home{
+    font-size: 14px;
+
+}
+
+.notify svg:hover{
+    fill: red;
+    cursor: pointer;
+}
+
+.arrow-down svg{
+    cursor: pointer;
+}
+
+.svg-pres {
+    background-color:  rgb(255, 243, 194);
+}

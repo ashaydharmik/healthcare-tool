@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home-container{
+    height: 100vh;
+}
+
+.heading a{
+    letter-spacing: 2px;
+    background-color: #56AEB4;
+}
